@@ -26,7 +26,7 @@ Razlaga in uporaba modela je predstavljena v <a href="https://youtu.be/WkFdWRNAM
 <hr />
 <strong>Določitev parametrov modela</strong>
 
-Potek repordukcijskega števila je modelu trenutno fiksen, določen pa je po optimizaciji s prileganjem dejanskih podatkov o hospitaliziranih, bolnikov na intenzivni negi in smrti z modelom. Kriterijska funkcija je minimizacija vsote absolutnih napak.
+Potek repordukcijskega števila v modelu je v tem primeru fiksno določen, izračunan po optimizaciji s prileganjem dejanskih podatkov o hospitaliziranih, bolnikov na intenzivni negi in smrti z modelom. Kriterijska funkcija je minimizacija vsote absolutnih napak.
 
 <hr />
 <strong>Reference</strong>
