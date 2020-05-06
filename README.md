@@ -16,7 +16,7 @@ Iz modela se ocenjuje tudi **reporodukcijski faktor R**.
 <hr />
 <strong>Uporabljeni model SEIR</strong>
 
-Uporabljen je model SEIR na spletni strani <a href="https://apps.lusy.fri.uni-lj.si/appsR/CoronaSim5/" target="_blank"> https://apps.lusy.fri.uni-lj.si/appsR/CoronaSim5 </a>.
+Uporabljen je model SEIR na spletni strani https://apps.lusy.fri.uni-lj.si/appsR/CoronaSim5/ 
 
 ![Model SEIR](https://github.com/janezz25/COVID19-model-SI/blob/master/jz_SEIR_Slovenija.png)
 
