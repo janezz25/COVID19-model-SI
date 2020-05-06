@@ -30,6 +30,9 @@ Razlaga in uporaba modela je predstavljena v <a href="https://youtu.be/WkFdWRNAM
 
 Potek repordukcijskega števila v modelu je v tem primeru fiksno določen, izračunan po optimizaciji s prileganjem dejanskih podatkov o hospitaliziranih, bolnikov na intenzivni negi in smrti z modelom. Kriterijska funkcija je minimizacija vsote absolutnih napak.
 
+Rezultati vsakodnevnega izračunavanja optimalnega poteka reprodukcijskega števila so na spletni strani:
+https://apps.lusy.fri.uni-lj.si/appsR/CoronaSim2/
+
 <hr />
 <strong>Reference</strong>
 
