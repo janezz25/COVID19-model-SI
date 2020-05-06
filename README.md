@@ -18,6 +18,7 @@ Iz modela se ocenjuje tudi **reporodukcijski faktor R**.
 
 Uporabljen je model SEIR na spletni strani <a href="https://apps.lusy.fri.uni-lj.si/appsR/CoronaSim5/" target="_blank"> https://apps.lusy.fri.uni-lj.si/appsR/CoronaSim5 </a>.
 
+Predstavitev modela je predstavljena v <a href="https://youtu.be/ZzIbNxvGdo8?t=3041" target="_blank"> videu predavanja </a>. 
 Razlaga in uporaba modela je predstavljena v <a href="https://youtu.be/WkFdWRNAM8s" target="_blank"> videu </a>.
 
 
@@ -26,7 +27,7 @@ Razlaga in uporaba modela je predstavljena v <a href="https://youtu.be/WkFdWRNAM
 
 Potek repordukcijskega števila je modelu trenutno fiksen, določen pa je po optimizaciji s prileganjem dejanskih podatkov o hospitaliziranih, bolnikov na intenzivni negi in smrti z modelom. Kriterijska funkcija je minimizacija vsote absolutnih napak.
 
+<hr />
 <strong>Reference</strong>
 
 [1] : Earn DJD, Rohani P, Bolker BM, Grenfell BT (2000) <i>A simple model for complex dynamical transitions in epidemics.</i> Science 287: 667-670 <br>
-[2] : Wang, H., Wang, Z., Dong, Y. et al. <i>Phase-adjusted estimation of the number of Coronavirus Disease 2019 cases in Wuhan, China.</i> Cell Discov 6, 10 (2020). https://doi.org/10.1038/s41421-020-0148-0
