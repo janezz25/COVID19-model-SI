@@ -13,8 +13,6 @@ Iz modela se ocenjuje tudi **reporodukcijski faktor R**.
 <br><br>
 
 
-
-
 <hr />
 <strong>Uporabljeni model SEIR</strong>
 
@@ -24,14 +22,9 @@ Razlaga in uporaba modela je predstavljena v <a href="https://youtu.be/WkFdWRNAM
 
 
 <hr />
-<!-- <strong>Določitev parametrov modela</strong> -->
+<strong>Določitev parametrov modela</strong>
 
-<!-- Parametri modela so določeni s prileganjem dejanskih podatkov o hospitaliziranih, bolnikov na intenzivni negi in smrti v razmerju 0.1:0.5:0.5. -->
-<!-- Kriterijska funkcija je minimizacija vsote kvadratov relativnih napak, tako kot se uporablja pri izračunu hi-kvadrat statistike. -->
-
-<!-- Izvedena je tudi metoda večkratnega vzorčenja (ang. bootstrapping) za določitev intervalov zaupanja (95% CI). -->
-
-<!-- <hr /> -->
+Potek repordukcijskega števila je modelu trenutno fiksen, določen pa je po optimizaciji s prileganjem dejanskih podatkov o hospitaliziranih, bolnikov na intenzivni negi in smrti z modelom. Kriterijska funkcija je minimizacija vsote absolutnih napak.
 
 <strong>Reference</strong>
 
