@@ -16,7 +16,9 @@ Iz modela se ocenjuje tudi **reporodukcijski faktor R**.
 <hr />
 <strong>Uporabljeni model SEIR</strong>
 
-Uporabljen je model SEIR na spletni strani https://apps.lusy.fri.uni-lj.si/appsR/CoronaSim5/ 
+Podrobnejši opis modela SEIR in projekcije modela so na:
+* https://apps.lusy.fri.uni-lj.si/appsR/CoronaV2/
+* https://apps.lusy.fri.uni-lj.si/appsR/CoronaSimV2/
 
 ![Model SEIR](https://github.com/janezz25/COVID19-model-SI/blob/master/jz_SEIR_Slovenija.png)
 
@@ -30,12 +32,11 @@ Razlaga in uporaba modela je predstavljena v <a href="https://youtu.be/WkFdWRNAM
 
 Potek repordukcijskega števila v modelu je v tem primeru fiksno določen, izračunan po optimizaciji s prileganjem dejanskih podatkov o hospitaliziranih, bolnikov na intenzivni negi in smrti z modelom. Kriterijska funkcija je minimizacija vsote absolutnih napak.
 
-Rezultati vsakodnevnega izračunavanja optimalnega poteka reprodukcijskega števila so na spletni strani:
-https://apps.lusy.fri.uni-lj.si/appsR/CoronaSim2/
+Vsakodnevne napovedi modela so na strani:  https://apps.lusy.fri.uni-lj.si/~janezz/reports/report_latest.html 
 
 <hr />
 <strong>Literatura</strong>
 
-Matt J. Keeling, Pejman Rohani. 2008. Modelling Infectious Diseases in Humans and Animals. Princeton University Press. http://www.jstor.com/stable/j.ctvcm4gk0.1.
+[1] : Matt J. Keeling, Pejman Rohani. 2008. Modelling Infectious Diseases in Humans and Animals. Princeton University Press. http://www.jstor.com/stable/j.ctvcm4gk0.1.
 
-[1] : Earn DJD, Rohani P, Bolker BM, Grenfell BT (2000) <i>A simple model for complex dynamical transitions in epidemics.</i> Science 287: 667-670 <br>
+[2] : Earn DJD, Rohani P, Bolker BM, Grenfell BT (2000) <i>A simple model for complex dynamical transitions in epidemics.</i> Science 287: 667-670 <br>
