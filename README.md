@@ -25,8 +25,8 @@ Podrobnejši opis modela SEIR in projekcije modela so na:
 Video vsebine povezane z uporabo epidemiološkega modela:
 * https://youtu.be/ZiqvPAolaZw
 * Starejše vsebine:
-** https://youtu.be/ZzIbNxvGdo8?t=3041
-** https://youtu.be/WkFdWRNAM8s
+  - https://youtu.be/ZzIbNxvGdo8?t=3041
+  - https://youtu.be/WkFdWRNAM8s
 
 
 
