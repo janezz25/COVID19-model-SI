@@ -34,6 +34,8 @@ Rezultati vsakodnevnega izračunavanja optimalnega poteka reprodukcijskega štev
 https://apps.lusy.fri.uni-lj.si/appsR/CoronaSim2/
 
 <hr />
-<strong>Reference</strong>
+<strong>Literatura</strong>
+
+Matt J. Keeling, Pejman Rohani. 2008. Modelling Infectious Diseases in Humans and Animals. Princeton University Press. http://www.jstor.com/stable/j.ctvcm4gk0.1.
 
 [1] : Earn DJD, Rohani P, Bolker BM, Grenfell BT (2000) <i>A simple model for complex dynamical transitions in epidemics.</i> Science 287: 667-670 <br>
