@@ -16,15 +16,18 @@ Iz modela se ocenjuje tudi **reporodukcijski faktor R**.
 <hr />
 <strong>Uporabljeni model SEIR</strong>
 
+![Model SEIR](https://github.com/janezz25/COVID19-model-SI/blob/master/jz_SEIR_Slovenija.png)
+
 Podrobnejši opis modela SEIR in projekcije modela so na:
 * https://apps.lusy.fri.uni-lj.si/appsR/CoronaV2/
 * https://apps.lusy.fri.uni-lj.si/appsR/CoronaSimV2/
 
-![Model SEIR](https://github.com/janezz25/COVID19-model-SI/blob/master/jz_SEIR_Slovenija.png)
+Video vsebine povezane z uporabo epidemiološkega modela:
+* https://youtu.be/ZiqvPAolaZw
+* Starejše vsebine:
+** https://youtu.be/ZzIbNxvGdo8?t=3041
+** https://youtu.be/WkFdWRNAM8s
 
-Predstavitev modela je predstavljena v <a href="https://youtu.be/ZzIbNxvGdo8?t=3041" target="_blank"> videu predavanja </a>.
-
-Razlaga in uporaba modela je predstavljena v <a href="https://youtu.be/WkFdWRNAM8s" target="_blank"> videu </a>.
 
 
 <hr />
